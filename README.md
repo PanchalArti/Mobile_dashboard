@@ -17,7 +17,7 @@ Welcome to the **Mobile Sales Dashboard** project! This interactive dashboard in
 
 ## 🛠️ Tools Used
 - **Power BI Desktop**: For building interactive dashboards  
-- **.pbix file format**: Power BI project file  
+- **https://github.com/PanchalArti/Mobile_dashboard/blob/main/mobileDashboard.pbix**: Power BI project file  
 - **CSV files**: Optional for raw dataset storage  
 - **Charts & Visuals**: Line charts, bar charts, KPIs, map visuals, slicers  
 
