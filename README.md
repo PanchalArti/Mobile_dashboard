@@ -18,13 +18,21 @@ Welcome to the **Mobile Sales Dashboard** project! This interactive dashboard in
 ## 🛠️ Tools Used
 - **Power BI Desktop**: For building interactive dashboards  
 - **https://github.com/PanchalArti/Mobile_dashboard/blob/main/mobileDashboard.pbix**: Power BI project file  
-- **CSV files**: Optional for raw dataset storage  
 - **Charts & Visuals**: Line charts, bar charts, KPIs, map visuals, slicers  
 
 ---
 
-## 📂 How to Use / Steps to Explore Dashboard
+## 📸 Dashboard Screenshots
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/Mobile-Sales-Dashboard.git
+### 1️⃣ Main Page
+![Overall Sales Overview](screenshots/overall_sales.png)  
+
+### 2️⃣ Monthly Trend Analysis
+![Top Products](screenshots/top_products.png)  
+
+### 3️⃣ SAP
+![Regional Sales](screenshots/regional_sales.png)  
+
+  
+
+
