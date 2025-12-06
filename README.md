@@ -25,7 +25,7 @@ Welcome to the **Mobile Sales Dashboard** project! This interactive dashboard in
 ## 📸 Dashboard Screenshots
 
 ### 1️⃣ Main Page
-![Overall Sales Overview](screenshots/overall_sales.png)  
+![Overall Sales Overview]([screenshots/overall_sales.png](https://github.com/PanchalArti/Mobile_dashboard/blob/main/snapshot1.jpg))  
 
 ### 2️⃣ Monthly Trend Analysis
 ![Top Products](screenshots/top_products.png)  
