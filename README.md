@@ -28,10 +28,10 @@ Welcome to the **Mobile Sales Dashboard** project! This interactive dashboard in
 ![Overall Sales Overview](https://github.com/PanchalArti/Mobile_dashboard/blob/main/snapshot1.jpg)  
 
 ### 2️⃣ Monthly Trend Analysis
-![Top Products](screenshots/top_products.png)  
+![Top Products](https://github.com/PanchalArti/Mobile_dashboard/blob/main/snapshot2.jpg)  
 
 ### 3️⃣ SAP
-![Regional Sales](screenshots/regional_sales.png)  
+![Regional Sales]() 
 
   
 
