@@ -1,2 +1,30 @@
-# Mobile_dashboard
-The Mobile Sales Dashboard in Power BI provides a comprehensive and interactive view of mobile sales performance. It visualizes key metrics such as total sales, revenue trends, top-selling products, and regional performance. Users can filter data by time, product category, or region to gain actionable insights.
+# 📱 Mobile Sales Dashboard - Power BI
+
+Welcome to the **Mobile Sales Dashboard** project! This interactive dashboard in Power BI provides a complete overview of mobile sales performance. It allows stakeholders to monitor revenue, track trends, analyze product and regional performance, and make informed decisions quickly. This dashboard is optimized for both desktop and mobile views for on-the-go analysis.  
+
+---
+
+## 🚀 Features
+- 📊 **Total Sales & Revenue Trends**: Track overall sales performance over time  
+- 🏆 **Top-Selling Products**: Identify best-selling mobile models  
+- 🌍 **Regional Performance Analysis**: Visualize sales by location with maps  
+- ⏱️ **Time-Based Filtering**: Filter data by month, quarter, or year  
+- 🧩 **Interactive Visuals**: Use slicers and filters to explore insights dynamically  
+- 📈 **Growth & Comparison Metrics**: Compare current vs previous periods  
+- 📱 **Mobile-Friendly**: Designed for accessibility on mobile devices  
+
+---
+
+## 🛠️ Tools Used
+- **Power BI Desktop**: For building interactive dashboards  
+- **.pbix file format**: Power BI project file  
+- **CSV files**: Optional for raw dataset storage  
+- **Charts & Visuals**: Line charts, bar charts, KPIs, map visuals, slicers  
+
+---
+
+## 📂 How to Use / Steps to Explore Dashboard
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/yourusername/Mobile-Sales-Dashboard.git
